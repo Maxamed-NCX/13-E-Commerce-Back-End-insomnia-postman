@@ -23,7 +23,7 @@
 
 🔍 A node.js application that uses user input from inquirer to populate an employee tracker database displaying members of a company.
 
-![ Employee Tracker](https://raw.githubusercontent.com/Mcnoor/-Challenge-Module13-BC-/main/Screen%20Shot%202022-07-02%20at%206.23.05%20PM.png)
+![ Employee Tracker](https://raw.githubusercontent.com/Mcnoor/Challenge-Module13-BC/main/PostMan%3AInsomnia.png)
   
 💻 Below is the gif showing the functionality of the application:
   
